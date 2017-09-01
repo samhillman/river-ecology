@@ -1,0 +1,49 @@
+site,temperature,species,count
+1,20.65,platambus,2
+2,12.45,platambus,6
+3,14.05,platambus,16
+4,16,platambus,3
+1,20.65,hydrophorus,0
+2,12.45,hydrophorus,7
+3,14.05,hydrophorus,0
+4,16,hydrophorus,0
+1,20.65,oligochaeta,10
+2,12.45,oligochaeta,4
+3,14.05,oligochaeta,2
+4,16,oligochaeta,5
+1,20.65,elmidae larvae,0
+2,12.45,elmidae larvae,0
+3,14.05,elmidae larvae,3
+4,16,elmidae larvae,3
+1,20.65,gamaris,0
+2,12.45,gamaris,0
+3,14.05,gamaris,28
+4,16,gamaris,13
+1,20.65,caenis,2
+2,12.45,caenis,0
+3,14.05,caenis,0
+4,16,caenis,3
+1,20.65,beatis,68
+2,12.45,beatis,96
+3,14.05,beatis,337
+4,16,beatis,96
+1,20.65,heptageniidae,2
+2,12.45,heptageniidae,2
+3,14.05,heptageniidae,35
+4,16,heptageniidae,16
+1,20.65,serettella,0
+2,12.45,serettella,6
+3,14.05,serettella,36
+4,16,serettella,4
+1,20.65,leuctra,1
+2,12.45,leuctra,2
+3,14.05,leuctra,94
+4,16,leuctra,11
+1,20.65,halesus,0
+2,12.45,halesus,0
+3,14.05,halesus,1
+4,16,halesus,2
+1,20.65,potamophylax,0
+2,12.45,potamophylax,0
+3,14.05,potamophylax,3
+4,16,potamophylax,2
